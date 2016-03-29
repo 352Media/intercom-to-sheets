@@ -1,5 +1,5 @@
 /*
- * Intercom to Sheets v1.0
+ * IntercomtoSheets v1.0
  * Created by the Growth Team at https://www.352inc.com
  * Team Silver (@damionwasylow, @latrointhemist, and @russebp)
  * Documentation: https://github.com/352Inc/intercomtosheets
