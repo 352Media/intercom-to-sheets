@@ -1,5 +1,5 @@
 # Intercom to Google Sheets
-The easiest way to track changes in your Intercom segments over time - contained entirely in Google Sheets.
+The easy way to track changes in your Intercom segments over time - contained entirely in Google Sheets.
 
 ## Two Options for Setting Up: Duplicate or Start Fresh
 #### Duplicate

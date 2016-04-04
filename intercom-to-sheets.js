@@ -1,8 +1,8 @@
 /*
- * IntercomtoSheets v1.0
+ * intercom-to-sheets v1.0
  * Created by the Growth Team at https://www.352inc.com
  * Team Silver (@damionwasylow, @latrointhemist, and @russebp)
- * Documentation: https://github.com/352Inc/intercomtosheets
+ * Documentation: https://github.com/352Media/intercom-to-sheets
  * Licensed under the MIT and GPL-3 licenses.
  *   tl;dr - Basically, you can do whatever you want as long as you include
  *   the original copyright and license notice in any copy of the software.
