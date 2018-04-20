@@ -1,3 +1,6 @@
+4/16/2018 - The Day the Music Died
+No longer in service, as Intercom has changed its API.
+
 # Intercom to Google Sheets
 The easy way to track changes in your Intercom segments over time - contained entirely in Google Sheets.
 
